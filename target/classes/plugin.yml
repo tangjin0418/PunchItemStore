@@ -1,4 +1,0 @@
-name: PunchItemStore
-version: '33'
-main: org.tjdev.custom.punchitemstore.PunchItemStore
-description: Left click chest to store items.
