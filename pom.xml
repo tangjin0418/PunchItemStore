@@ -6,7 +6,7 @@
 
     <groupId>org.tjdev.custom</groupId>
     <artifactId>PunchItemStore</artifactId>
-    <version>34</version>
+    <version>35</version>
     <packaging>jar</packaging>
 
     <name>PunchItemStore</name>
@@ -62,6 +62,7 @@
             <groupId>org.spigotmc</groupId>
             <artifactId>spigot-api</artifactId>
             <version>1.8-R0.1-SNAPSHOT</version>
+            <scope>provided</scope>
         </dependency>
     </dependencies>
 </project>
